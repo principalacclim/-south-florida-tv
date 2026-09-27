@@ -1,0 +1,19 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us-fl/tvtv.us.epg.xml"
+
+# South Florida Español - curated
+# Public/free streams only; availability can change.
+
+#EXTINF:-1 tvg-id="MegaTV.us@WSBSTV" group-title="South Florida Español",22 MegaTV Miami (WSBS)
+https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
+
+#EXTINF:-1 tvg-id="Univision.us@WLTVDT" group-title="South Florida Español",23 Univision Miami (WLTV)
+https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
+
+#EXTINF:-1 group-title="South Florida Español",41 América TeVé Miami
+https://live.gideo.video/americateve2/master.m3u8
+
+#EXTINF:-1 group-title="South Florida Español",51 Telemundo Noticias Florida
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="South Florida Español",Estrella TV
+https://estrellatv-oando.amagi.tv/playlist.m3u8
