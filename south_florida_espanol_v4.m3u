@@ -1,0 +1,97 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us-fl/tvtv.us.epg.xml"
+
+# South Florida Español v4
+# Curated for public/free streams that can be used in Sparkle/TiviMate/Kodi.
+# Availability and geo-restrictions can change.
+# Paid/subscription channels are NOT included unless a legitimate public stream is available.
+
+########## MIAMI / SOUTH FLORIDA ##########
+
+#EXTINF:-1 tvg-id="MegaTV.us@WSBSTV" group-title="Miami Local Español",22 MegaTV Miami (WSBS)
+https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
+
+#EXTINF:-1 tvg-id="Univision.us@WLTVDT" group-title="Miami Local Español",23 Univision Miami (WLTV)
+https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
+
+#EXTINF:-1 group-title="Miami Local Español",41 América TeVé Miami
+https://live.gideo.video/americateve2/master.m3u8
+
+#EXTINF:-1 group-title="Miami Local Español",51 Telemundo Noticias Florida - Variante 1
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Miami Local Español",51 Telemundo Noticias Florida - Variante 2
+https://amg00884-nbcuniversal-nbctelemundoflorida-xumo-atn0m.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Noticias Español",Telemundo Noticias Ahora
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us@SD" group-title="Miami / Español",Estrella TV
+https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8
+
+########## CINE EN ESPAÑOL ##########
+
+#EXTINF:-1 tvg-id="PlutoTVCineEstelar.us@LatAm" group-title="Cine Español",Pluto TV Cine Estelar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=00000000-0000-0000-0000-000000000000&advertisingId=
+
+#EXTINF:-1 tvg-id="CineSony.us@SD" group-title="Cine Español",Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cineenespanol.us@SD" group-title="Cine Español",Cine en Español
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=00000000-0000-0000-0000-000000000000&advertisingId=
+
+#EXTINF:-1 tvg-id="PlutoTVCineFamilia.us@LatAm" group-title="Cine Español",Pluto TV Cine Familia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=00000000-0000-0000-0000-000000000000&advertisingId=
+
+#EXTINF:-1 group-title="Cine Español",Cine Estrella
+https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
+
+#EXTINF:-1 group-title="Cine Español",Todo Cine
+https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8
+
+#EXTINF:-1 group-title="Cine Español",Canela Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+
+#EXTINF:-1 tvg-id="CineRomantico.us@SD" group-title="Cine Español",Cine Romántico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+
+#EXTINF:-1 tvg-id="CanelaTV.us@SD" group-title="Entretenimiento Español",Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
+
+########## DEPORTES EN ESPAÑOL ##########
+
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD" group-title="Deportes Español",FOX Sports en Español (Tubi)
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" group-title="Deportes Español",beIN Sports XTRA en Español
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+
+#EXTINF:-1 tvg-id="ITVDeportes.mx@SD" group-title="Deportes Español",ITV Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+
+########## BÉISBOL ##########
+
+#EXTINF:-1 tvg-id="MLB.us@SD" group-title="Béisbol",MLB Channel - clásicos, highlights y programas
+https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
+
+########## HISTORIA / DOCUMENTALES / NATURALEZA ##########
+
+#EXTINF:-1 tvg-id="Historia.es@SD" group-title="Historia y Documentales",Historia
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+
+#EXTINF:-1 tvg-id="DocumentaryPlus.us@US" group-title="Historia y Documentales",Documentary+
+https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNatureenEspanol.us@SD" group-title="Historia y Documentales",Love Nature en Español
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+
+########## SOLICITADOS PERO SIN M3U PÚBLICO/ESTABLE AUTORIZADO ##########
+# Cinelatino - canal de suscripción
+# Cinema Dinamita - canal de suscripción (por ejemplo Sling México)
+# De Película - canal de suscripción
+# Discovery en Español - canal de suscripción
+# Discovery Familia - canal de suscripción
+# History en Español (A&E) - canal de suscripción; "Historia" arriba es una alternativa FAST en español
+# Vme TV - disponible por proveedores; no encontré un HLS público estable para agregar
+# NTN24 - tiene señal oficial en vivo en su web, pero no encontré una URL HLS pública estable para Sparkle
+# CNN en Español - la señal completa requiere acceso autorizado; CNN Xpress es FAST en plataformas compatibles
+# UniMás Miami 69 (WAMI) - local OTA/proveedores, sin M3U público estable encontrado
