@@ -1,0 +1,130 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us-fl/tvtv.us.epg.xml"
+
+# South Florida Español v7
+# Optimizada para onn. Google TV + Sparkle/TiviMate/Kodi.
+# Sin Pluto.
+# Incluye streams públicos/FAST o feeds abiertos de proveedores conocidos.
+# Canales de suscripción (HBO lineal, Pasiones lineal, etc.) no se agregan
+# si requieren autenticación/DRM o no tienen un HLS público estable.
+
+########## MIAMI / SOUTH FLORIDA ##########
+
+#EXTINF:-1 tvg-id="MegaTV.us@WSBSTV" tvg-name="MegaTV Miami" group-title="Miami Local Español",22 MegaTV Miami (WSBS)
+https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
+
+#EXTINF:-1 tvg-id="Univision.us@WLTVDT" tvg-name="Univision Miami" group-title="Miami Local Español",23 Univision Miami (WLTV)
+https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
+
+#EXTINF:-1 tvg-name="America TeVe Miami" group-title="Miami Local Español",41 América TeVé Miami
+https://live.gideo.video/americateve2/master.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us@SD" tvg-name="Estrella TV" group-title="Miami / Español",Estrella TV
+https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8
+
+########## TELEMUNDO / SERIES ##########
+
+#EXTINF:-1 tvg-name="Telemundo Noticias Ahora" group-title="Telemundo",Telemundo Noticias Ahora
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-name="Telemundo Acción" group-title="Telemundo",Telemundo Acción
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoAlDia.us@HD" tvg-name="Telemundo Al Día" group-title="Telemundo",Telemundo Al Día - Fuente 1
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoAlDia.us@HD" tvg-name="Telemundo Al Día" group-title="Telemundo",Telemundo Al Día - Fuente 2
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573
+
+########## TELENOVELAS / DRAMA EN ESPAÑOL ##########
+
+#EXTINF:-1 tvg-name="Canela Telenovelas" group-title="Novelas y Drama",Canela Telenovelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+
+#EXTINF:-1 tvg-id="Novelisima.us@SD" tvg-name="Novelísima" group-title="Novelas y Drama",Novelísima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us@SD" tvg-name="Sony Canal Novelas" group-title="Novelas y Drama",Sony Canal Novelas
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Vive Kanal D Drama" group-title="Novelas y Drama",Vive Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-name="RCN Más" group-title="Novelas y Drama",RCN Más
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+########## CINE EN ESPAÑOL - SIN PLUTO ##########
+
+#EXTINF:-1 tvg-id="CineSony.us@SD" tvg-name="Cine Sony" group-title="Cine Español",Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Filmex.mx@SD" tvg-name="Filmex" group-title="Cine Español",FILMEX
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmexClasico.mx@SD" tvg-name="Filmex Clásico" group-title="Cine Español",FILMEX Clásico
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cine EstrellaTV" group-title="Cine Español",Cine EstrellaTV
+https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Todo Cine" group-title="Cine Español",Todo Cine
+https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canela Clásicos" group-title="Cine Español",Canela Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+
+#EXTINF:-1 tvg-id="CineRomantico.us@SD" tvg-name="Cine Romántico" group-title="Cine Español",Cine Romántico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+
+#EXTINF:-1 tvg-id="CanelaTV.us@SD" tvg-name="Canela TV" group-title="Entretenimiento Español",Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
+
+########## PREMIUM-LIKE / MARCAS CON FAST PÚBLICO ##########
+
+#EXTINF:-1 tvg-name="WBTV HBO Boxing" group-title="Premium FAST",WBTV HBO Boxing
+https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Modern Marvels Presented by History" group-title="Premium FAST",Modern Marvels by HISTORY
+https://pb-m89wlp8flmjzf.akamaized.net/v1/aenetworks_modernmarvels_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-name="True History Channel" group-title="Premium FAST",True History Channel
+https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
+
+########## DEPORTES EN ESPAÑOL ##########
+
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-name="FOX Sports en Español" group-title="Deportes Español",FOX Sports en Español
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-name="beIN Sports XTRA en Español" group-title="Deportes Español",beIN Sports XTRA en Español
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+
+#EXTINF:-1 tvg-id="ITVDeportes.mx@SD" tvg-name="ITV Deportes" group-title="Deportes Español",ITV Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+
+########## BÉISBOL ##########
+
+#EXTINF:-1 tvg-id="MLB.us@SD" tvg-name="MLB" group-title="Béisbol",MLB Channel - clásicos, highlights y programas
+https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
+
+########## HISTORIA / DOCUMENTALES / NATURALEZA ##########
+
+#EXTINF:-1 tvg-id="Historia.es@SD" tvg-name="Historia" group-title="Historia y Documentales",Historia
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+
+#EXTINF:-1 tvg-id="DocumentaryPlus.us@US" tvg-name="Documentary+" group-title="Historia y Documentales",Documentary+
+https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNatureenEspanol.us@SD" tvg-name="Love Nature en Español" group-title="Historia y Documentales",Love Nature en Español
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+
+########## NOTAS IMPORTANTES ##########
+# Pasiones (canal lineal):
+# El canal oficial de Pasiones es de suscripción/proveedor y no tiene un HLS público
+# estable/autorizado que podamos reutilizar directamente en Sparkle.
+# Una solicitud pública encontrada para añadirlo a IPTV-org fue rechazada por
+# interrupciones del stream.
+#
+# Alternativas muy parecidas incluidas arriba:
+# Canela Telenovelas, Novelísima, Sony Canal Novelas, Vive Kanal D Drama y RCN Más.
+#
+# HBO/HBO Latino lineal:
+# requieren Max o autenticación del proveedor; no hay M3U público estable sin DRM.
